@@ -1,0 +1,117 @@
+ [
+  
+  {"stencil":{
+  "title": "Date Field",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Fieldset",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Calendar",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Table",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Comment",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Drop down",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Breadcrumbs",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Link",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Icon",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Image",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Tabs",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Text Area",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Progress Bar",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Menu",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Menu bar",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Map",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Radio button",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Stepper",
+  "pdf": "window_stencil.pdf",
+  "thumb": "window_thumb.png"
+  }},
+  
+  {"stencil":{
+  "title": "Button",
+  "pdf": "botao_stencil.pdf",
+  "thumb": "botao_thumb.png"
+  }}
+  
+  ]

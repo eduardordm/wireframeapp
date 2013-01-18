@@ -1,0 +1,37 @@
+[
+ 
+     
+     {"stencil":{
+         "title": "Window",
+         "pdf": "window_stencil.pdf",
+         "thumb": "window_thumb.png",
+         "width": "400",
+         "height": "400"
+     }},
+ 
+ 
+     {"stencil":{
+         "title": "Box",
+         "pdf": "box_stencil.pdf",
+         "thumb": "box_thumb.png",
+         "width": "400",
+         "height": "400"
+     }},
+ 
+     {"stencil":{
+         "title": "Button",
+         "pdf": "button_stencil.pdf",
+         "thumb": "button_thumb.png",
+         "width": "120",
+         "height": "48"
+     }},
+ 
+     {"stencil":{
+         "title": "Image",
+         "pdf": "image_stencil.pdf",
+         "thumb": "image_thumb.png",
+         "width": "400",
+         "height": "400"
+     }}
+ 
+ ]
