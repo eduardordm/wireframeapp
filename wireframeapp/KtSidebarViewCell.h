@@ -21,7 +21,6 @@
 @property (retain, nonatomic) NSString * fwidth;
 @property (retain, nonatomic) NSString * fheight;
 
-@property (weak, nonatomic) IBOutlet UILabel *lblTitle;
-
+@property (weak, nonatomic) IBOutlet UILabel *label;
 @property (weak, nonatomic) IBOutlet UIImageView *image;
 @end

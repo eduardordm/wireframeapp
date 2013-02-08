@@ -54,10 +54,10 @@
     [cell setIndentationWidth:3];
     [cell setIndentationLevel:2];
 
-    UIImage *img = [ UIImage imageWithPDFNamed:pdf atSize:CGSizeMake( 30, 30 ) ];
+    // UIImage *img = [ UIImage imageWithPDFNamed:pdf atSize:CGSizeMake( 30, 30 ) ];
     
-    [cell.imageView setImage:img];
-    [cell.lblTitle setText:title];
+    // [cell.imageView setImage:img];
+    [cell.label setText:title];
     
 
 

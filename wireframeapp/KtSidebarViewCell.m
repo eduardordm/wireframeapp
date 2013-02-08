@@ -8,7 +8,7 @@
 #import "KtSidebarViewCell.h"
 
 @implementation KtSidebarViewCell
-@synthesize lblTitle;
+
 @synthesize image;
 
 @synthesize thumb;
