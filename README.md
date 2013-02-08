@@ -12,6 +12,12 @@ This project reflects me learning Objective-C and iOS at the same time, lots of 
 
 Hope you like it. 
 
+![s1](https://raw.github.com/eduardordm/wireframeapp/master/screenshots/screen1.png)
+
+![s2](https://raw.github.com/eduardordm/wireframeapp/master/screenshots/screen2.png)
+
+
+
 
 License
 =======
