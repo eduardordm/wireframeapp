@@ -207,12 +207,12 @@ static void TMReachabilityCallback(SCNetworkReachabilityRef target, SCNetworkRea
     // set it as our reachability queue which will retain the queue
     if(SCNetworkReachabilitySetDispatchQueue(self.reachabilityRef, self.reachabilitySerialQueue))
     {
-        dispatch_release(self.reachabilitySerialQueue);
+       // dispatch_release(self.reachabilitySerialQueue);
         // refcount should be ++ from the above function so this -- will mean its still 1
         return YES;
     }
     
-    dispatch_release(self.reachabilitySerialQueue);
+   // dispatch_release(self.reachabilitySerialQueue);
     self.reachabilitySerialQueue = nil;
     return NO;
 }
