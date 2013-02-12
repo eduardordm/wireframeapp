@@ -349,10 +349,10 @@
         return;
     }
     
-//    if([title isEqualToString:@"Box"]) {
-//        [KtBoxRenderer render:self withRect:rect];
-//        return;
-//    }
+    if([title isEqualToString:@"Rect"]) {
+        [KtBoxRenderer render:self withRect:rect];
+        return;
+    }
     
     if([title isEqualToString:@"Arrow"]) {
         [KtArrowRenderer render:self withRect:rect];

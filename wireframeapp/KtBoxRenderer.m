@@ -18,9 +18,11 @@
 + (void) render:(KtStencilView*)view withRect: (CGRect) rect
 {
     UIBezierPath* rectanglePath = [UIBezierPath bezierPathWithRect: rect];
-    [[UIColor blackColor] setStroke];
-    rectanglePath.lineWidth = 2;
-    [rectanglePath stroke];
+    
+    
+    [[UIColor lightGrayColor] setFill];
+    [rectanglePath fill];
+
 }
 
 @end

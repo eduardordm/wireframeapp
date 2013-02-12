@@ -32,6 +32,14 @@
          "thumb": "image_thumb.png",
          "width": "400",
          "height": "400"
+     }},
+ 
+     {"stencil":{
+         "title": "Rect",
+         "pdf": "box_stencil.pdf",
+         "thumb": "box_thumb.png",
+         "width": "400",
+         "height": "400"
      }}
  
  ]
