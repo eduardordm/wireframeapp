@@ -3,6 +3,8 @@ WireframeApp
 
 A wireframing app for iPad.
 
+This is the version 1.0, as submmited to the appstore.
+
 Read this!
 ==========
 
