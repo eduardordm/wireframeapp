@@ -3,8 +3,6 @@ WireframeApp
 
 A free open source wireframing app for iPad.
 
-Because of trolling, the WireframeApp on app store costs 99 cents. You still can download the sources and install it on your iPad using Xcode.
-
 Website: [wireframeapp.com](http://wireframeapp.com/) 
 
 
